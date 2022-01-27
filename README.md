@@ -7,8 +7,13 @@ Youtube   : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">WEB PROGRAMM
 
 Instagram : <a href="https://www.instagram.com/sandhikagalih/">SANDHIKA GALIH</a>
 
-![image](https://user-images.githubusercontent.com/59833466/151410625-66a3fd17-c4a5-4470-a9a6-162c8aa427d9.png)
-   
+<p align="center">
+<a href="https://www.instagram.com/sandhikagalih/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/c/WebProgrammingUNPAS" target="_blank"><img src="https://img.shields.io/badge/Youtube-red?&style=flat-square&logo=youtube&logoColor=white" alt="Twitter"></a>
+</p>
+
+![2681894](https://user-images.githubusercontent.com/59833466/151411782-8cde1096-479f-434a-a959-5108cadf6667.png)
+
 # project-kalian
 
 ## Menyimpan daftar Project Kalian yang sudah disubmit di Discord
