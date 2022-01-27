@@ -2,6 +2,12 @@
 Berbagai macam project yang yang di review pak dika di yt WPU, bisa di ambil buat referensi ngoding
 
 Akan di update setiap minggu
+
+Youtube   : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">WEB PROGRAMMING UNPAS</a>
+
+Instagram : <a href="https://www.instagram.com/sandhikagalih/">SANDHIKA GALIH</a>
+
+![image](https://user-images.githubusercontent.com/59833466/151410625-66a3fd17-c4a5-4470-a9a6-162c8aa427d9.png)
    
 # project-kalian
 
