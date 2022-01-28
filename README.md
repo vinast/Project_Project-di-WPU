@@ -1,7 +1,7 @@
 # Project_Project-di-WPU
 Berbagai macam project yang yang di review pak dika di yt WPU, bisa di ambil buat referensi ngoding
 
-Akan di update setiap minggu
+Akan di update setiap minggu, Jangan lupa follow Instagram dan suscribe Youtube nya pak dika link dibawah ini.
 
 Youtube   : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">WEB PROGRAMMING UNPAS</a>
 
